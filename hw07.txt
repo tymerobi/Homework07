@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 OH HELLO THERE CSCI-C151
+=======
+OH HELLO THERE
+>>>>>>> b87f1d0254ea6909ebec8f7c025a7add9d5e0a0c
 i dunno
 what i
 am doing
